@@ -1,3 +1,19 @@
+1    This project need picture, you need to download it form http://vis-www.cs.umass.edu/fddb/index.html
+2    Ubuntu16.04+OpenCV3.4.1
+3    you can run it with 
+method 1 :
+go to evalution contents and 
+"make clean;make;"
+"perl runEvaluate.pl"
+then you will get the ROC png in ../out-folds/
+
+method 2 :
+go to evalution contents and  
+"./evaluate -a ../ellipseList.txt -d ../results.txt -i ../originalPics/ -l ../imList.txt"
+then you will get the ROC data in ../evaluation/
+
+
+
 Face Detection Data Set and Benchmark
 University of Massachusetts - Amherst
 
