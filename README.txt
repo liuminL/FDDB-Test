@@ -1,3 +1,5 @@
+you can know something from https://blog.csdn.net/Xingyb14/article/details/81329833
+
 1    This project need picture, you need to download it form http://vis-www.cs.umass.edu/fddb/index.html
 2    Ubuntu16.04+OpenCV3.4.1
 3    you can run it with 
